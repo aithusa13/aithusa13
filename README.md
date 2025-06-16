@@ -7,7 +7,6 @@ Also a huge fan of storytelling and cinema 🎬
 ## Currently Working On
 - 🚀 An autonomous drone navigation system using `Python`, `ROS` and `MAVROS`
 - 📚 A microservices-based **Library Management System** with `.NET Core`, `SQL Server`, and `Docker`
-- 🧠 Enhancing my skills in low-level programming, real-time systems, and control algorithms
 ---
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
