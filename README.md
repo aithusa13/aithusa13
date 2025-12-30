@@ -1,12 +1,6 @@
-Hi everyone, this is aithusa13
----
-Welcome to my little space lab  
+
+welcome to my little space lab  
 I’m a Software Engineering student passionate about **embedded systems** and **space exploration** 🚀  
-Also a huge fan of storytelling and cinema 🎬
----
-## Currently Working On
-- 🚀 An autonomous drone navigation system using `Python`, `ROS` and `MAVROS`
-- 📚 A microservices-based **Library Management System** with `.NET Core`, `SQL Server`, and `Docker`
 ---
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
